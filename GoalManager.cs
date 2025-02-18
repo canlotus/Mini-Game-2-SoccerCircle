@@ -8,7 +8,7 @@ public class GoalManager : MonoBehaviour
 
     public int player1Score = 0;
     public int player2Score = 0;
-    public TextMeshProUGUI player1ScoreText;
+    public TextMeshProUGUI player1ScoreText; 
     public TextMeshProUGUI player2ScoreText;
     public TextMeshProUGUI goalText; 
     private float initialBallDrag; 
